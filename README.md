@@ -33,6 +33,9 @@ O meteorologia de bolso é um aplicativo que desenvolvemos visando facilitar a i
 
 <h1>Print das Telas</h1>
 
+![telasplash](https://github.com/user-attachments/assets/ed341478-5148-4642-9921-278a15f57d36)
+
+
 ![Consulta](https://github.com/user-attachments/assets/945bbb1f-39a2-40c4-8ea0-672b3a8944ed)
 
 ![Resultado da Consulta](https://github.com/user-attachments/assets/f202bdf4-904c-4525-83bf-b34dc3219ae1)

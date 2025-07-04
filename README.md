@@ -3,9 +3,10 @@ Prova do segundo bimestre
 
 
 h1 align="center"> Meteorologia de Bolso </h1>
+
 <p align="center">Um trabalho para a disciplina de DESENVOLVIMENTO DE APLICAÇÕES PARA DISPOSITIVOS MÓVEIS - 4º Informática do IFSP-Jacareí</p>
 <br>
-<p align="center">
+
 
 
 <h1>🧑‍🏫 Professor responsável</h1> 

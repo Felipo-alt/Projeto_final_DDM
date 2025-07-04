@@ -2,7 +2,7 @@
 Prova do segundo bimestre
 
 
-h1 align="center"> Meteorologia de Bolso </h1>
+<h1 align="center"> Meteorologia de Bolso </h1>
 <p align="center">Um trabalho para a disciplina de DESENVOLVIMENTO DE APLICAÇÕES PARA DISPOSITIVOS MÓVEIS - 4º Informática do IFSP-Jacareí</p>
 <br>
 <p align="center">
@@ -33,9 +33,9 @@ O meteorologia de bolso é um aplicativo que desenvolvemos visando facilitar a i
 
 <h1>Print das Telas</h1>
 
-![image (1)](https://github.com/user-attachments/assets/945bbb1f-39a2-40c4-8ea0-672b3a8944ed)
+![Consulta](https://github.com/user-attachments/assets/945bbb1f-39a2-40c4-8ea0-672b3a8944ed)
 
-![image](https://github.com/user-attachments/assets/f202bdf4-904c-4525-83bf-b34dc3219ae1)
+![Resultado da Consulta](https://github.com/user-attachments/assets/f202bdf4-904c-4525-83bf-b34dc3219ae1)
 
 
 <br><br>

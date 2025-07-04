@@ -2,37 +2,27 @@
 Prova do segundo bimestre
 
 
-<h1 align="center"> Meteorologia de Bolso </h1>
-
+h1 align="center"> Meteorologia de Bolso </h1>
 <p align="center">Um trabalho para a disciplina de DESENVOLVIMENTO DE APLICAÇÕES PARA DISPOSITIVOS MÓVEIS - 4º Informática do IFSP-Jacareí</p>
 <br>
-
+<p align="center">
 
 
 <h1>🧑‍🏫 Professor responsável</h1> 
 
--  Ana Paula Shigemori
+-  Ana Paula Abrantes de Castro Shigemori 
 
 <h1>🎯 Descrição do Aplicativo Meteorologia de Bolso</h1> 
 
-O meteorologia de bolso é um aplicativo que desenvolvemos visando facilitar a informação do clima. Na tela principal do ap
+O meteorologia de bolso é um aplicativo que desenvolvemos visando facilitar a informação do clima. Teremos 3 telas: Splash Screen, que apresenta a logo e carrega a Tela Principal; A Tela Principal, que permite você consultar as temperaturas e climas das regiões que quiser, como também ver as pesquisas anteriores e por fim a Tela do Clima, que mostra o nome, grau e clima da região pesquisada.
 
 <br>
 
-<h1>✖️ O que não é o objetivo do projeto</h1>
-
-
-<h1>👥 Público-alvo</h2>
-Para todos que desejam a facilidade na hora de averiguar o clima onde moram.
 
 <h1>:hammer: Funcionalidades do Projeto</h1>
 
 - Exibição do nome, da temperatura e o gif representando o atual clima;
-- Histórico dos climas: ;
-
-<h1>☑️ Requisitos não funcionais para o site</h1> 
-
-- Desempenho 
+- Histórico dos climas: 
 
 
 <h1>📱Código Fonte do APP </h1>
@@ -41,8 +31,14 @@ Para todos que desejam a facilidade na hora de averiguar o clima onde moram.
 
 
 
-<h1>📊 Banco de Dados</h1>
+<h1>Print das Telas</h1>
+
+![image (1)](https://github.com/user-attachments/assets/945bbb1f-39a2-40c4-8ea0-672b3a8944ed)
+
+![image](https://github.com/user-attachments/assets/f202bdf4-904c-4525-83bf-b34dc3219ae1)
 
 
 <br><br>
+
+
 

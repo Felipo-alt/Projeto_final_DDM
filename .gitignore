@@ -1,0 +1,96 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio build outputs
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Firebase config files for analytics examples
+analytics/android/app/google-services.json
+analytics/ios/firebase_app_id_file.json
+analytics/ios/Runner/GoogleService-Info.plist
+analytics/macos/firebase_app_id_file.json
+analytics/macos/Runner/GoogleService-Info.plist
+
+# Ignore .firebaserc for all examples
+**/.firebaserc
+
+# Firebase configuration files
+**/GoogleService-Info.plist
+**/google-services.json
+**/firebase_app_id_file.json
+
+# Firebase configuration files
+google-services.json
+GoogleService-Info.plist
+firebase_options.dart
+firebase.json
+
+# VS Code cache files
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+
+# Environment variable files
+.env
+.env.*
+
+# Common backup files
+*~
+*.bak
+
+# Local Firebase CLI configuration
+.firebase/
+
+# Crashlytics build properties (if using Crashlytics)
+**/crashlytics-build.properties
+
+# Android Studio C++ configuration
+.cxx/
+local.properties
+
+# Xcode configuration files
+xcuserdata/
+DerivedData/
